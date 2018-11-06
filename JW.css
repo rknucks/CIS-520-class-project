@@ -1,0 +1,62 @@
+body {
+    width: 100%;
+    background-image: url("http://andiplay.com/wp-content/uploads/2015/05/Jurassic-World-The-Game-el-juego-app-android-apple-ios-7.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border: 2px solid black;
+   
+
+
+
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    background: teal;
+    height: 90px;
+    margin-left: 20%;
+    margin-top: 0;
+    float: left;
+    
+    
+}
+
+
+
+
+
+header {
+
+    background-color: white;
+    width: 960px;
+    border: 1px solid;
+    border-color: #ccc;
+    height: 90px;
+    
+
+
+
+
+
+   
+   
+}
+
+#name {
+    float: left;
+    background-color: teal;
+    width: 20%;
+    margin: 20%;
+    padding: 25px;
+    height: 90px;
+
+}
+img {
+    float: left;
+    margin: 15px;
+}
+
+.video {
+    margin-top: 35%;
+}
